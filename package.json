@@ -1,5 +1,8 @@
 {
   "name": "pouch-express-heroku",
+  "scripts": {
+    "start": "sh ./shell-start.sh"
+  },
   "dependencies": {
     "pouchdb-server": "^4.0.1"
   }
